@@ -1,0 +1,28 @@
+Bcl-10	AMPK beta subunit
+Bcl-10	p70 S6 kinase2
+EGFR	Separase
+Separase	p70 S6 kinase2
+Separase	c-Src
+GSK3 alpha	TRUB2
+GSK3 beta	TRUB2
+ITGB4	GSK3 alpha
+ITGB4	Tuberin
+Leptin receptor	GSK3 alpha
+mTOR	Hamartin
+PI3K cat class III (Vps34)	TRUB2
+PI3K cat class III (Vps34)	Tuberin
+AMPK alpha 1 subunit	Separase
+AMPK alpha 1 subunit	AMPK beta subunit
+AMPK beta subunit	WDR3
+p90Rsk	GSK3 alpha
+p90Rsk	Tuberin
+p70 S6 kinase2	WDR3
+p70 S6 kinase2	Tuberin
+c-Src	WDR3
+LKB1	Tuberin
+TRUB2	Hamartin
+WDR3	GSK3 alpha
+WDR3	mTOR
+WDR3	PI3K cat class III (Vps34)
+Tuberin	Hamartin
+

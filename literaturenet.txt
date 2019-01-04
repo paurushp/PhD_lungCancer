@@ -1,0 +1,290 @@
+Bcl-10	EGFR
+Bcl-10	Separase
+Bcl-10	GSK3 alpha
+Bcl-10	GSK3 beta
+Bcl-10	ITGB4
+Bcl-10	Leptin receptor
+Bcl-10	mTOR
+Bcl-10	PI3K cat class III (Vps34)
+Bcl-10	AMPK alpha 1 subunit
+Bcl-10	c-Raf-1
+Bcl-10	p90Rsk
+Bcl-10	p70 S6 kinase2
+Bcl-10	c-Src
+Bcl-10	LKB1
+Bcl-10	TRUB2
+Bcl-10	Hamartin
+Bcl-10	WDR3
+Bcl-10	Tuberin
+EGFR	Bcl-10
+EGFR	Separase
+EGFR	GSK3 alpha
+EGFR	GSK3 beta
+EGFR	ITGB4
+EGFR	Leptin receptor
+EGFR	mTOR
+EGFR	PI3K cat class III (Vps34)
+EGFR	AMPK alpha 1 subunit
+EGFR	c-Raf-1
+EGFR	p90Rsk
+EGFR	p70 S6 kinase2
+EGFR	c-Src
+EGFR	LKB1
+EGFR	TRUB2
+EGFR	Hamartin
+EGFR	WDR3
+EGFR	Tuberin
+GSK3 alpha	Bcl-10
+GSK3 alpha	EGFR
+GSK3 alpha	Separase
+GSK3 alpha	GSK3 beta
+GSK3 alpha	ITGB4
+GSK3 alpha	Leptin receptor
+GSK3 alpha	mTOR
+GSK3 alpha	PI3K cat class III (Vps34)
+GSK3 alpha	AMPK alpha 1 subunit
+GSK3 alpha	c-Raf-1
+GSK3 alpha	p90Rsk
+GSK3 alpha	p70 S6 kinase2
+GSK3 alpha	c-Src
+GSK3 alpha	LKB1
+GSK3 alpha	TRUB2
+GSK3 alpha	Hamartin
+GSK3 alpha	WDR3
+GSK3 alpha	Tuberin
+GSK3 beta	Bcl-10
+GSK3 beta	EGFR
+GSK3 beta	Separase
+GSK3 beta	GSK3 alpha
+GSK3 beta	ITGB4
+GSK3 beta	Leptin receptor
+GSK3 beta	mTOR
+GSK3 beta	PI3K cat class III (Vps34)
+GSK3 beta	AMPK alpha 1 subunit
+GSK3 beta	c-Raf-1
+GSK3 beta	p90Rsk
+GSK3 beta	p70 S6 kinase2
+GSK3 beta	c-Src
+GSK3 beta	LKB1
+GSK3 beta	TRUB2
+GSK3 beta	Hamartin
+GSK3 beta	WDR3
+GSK3 beta	Tuberin
+ITGB4	Bcl-10
+ITGB4	EGFR
+ITGB4	Separase
+ITGB4	GSK3 alpha
+ITGB4	GSK3 beta
+ITGB4	Leptin receptor
+ITGB4	mTOR
+ITGB4	PI3K cat class III (Vps34)
+ITGB4	AMPK alpha 1 subunit
+ITGB4	c-Raf-1
+ITGB4	p90Rsk
+ITGB4	p70 S6 kinase2
+ITGB4	c-Src
+ITGB4	LKB1
+ITGB4	TRUB2
+ITGB4	Hamartin
+ITGB4	WDR3
+ITGB4	Tuberin
+Leptin receptor	Bcl-10
+Leptin receptor	EGFR
+Leptin receptor	Separase
+Leptin receptor	GSK3 alpha
+Leptin receptor	GSK3 beta
+Leptin receptor	ITGB4
+Leptin receptor	mTOR
+Leptin receptor	PI3K cat class III (Vps34)
+Leptin receptor	AMPK alpha 1 subunit
+Leptin receptor	c-Raf-1
+Leptin receptor	p90Rsk
+Leptin receptor	p70 S6 kinase2
+Leptin receptor	c-Src
+Leptin receptor	LKB1
+Leptin receptor	TRUB2
+Leptin receptor	Hamartin
+Leptin receptor	WDR3
+Leptin receptor	Tuberin
+mTOR	Bcl-10
+mTOR	EGFR
+mTOR	Separase
+mTOR	GSK3 alpha
+mTOR	GSK3 beta
+mTOR	ITGB4
+mTOR	Leptin receptor
+mTOR	PI3K cat class III (Vps34)
+mTOR	AMPK alpha 1 subunit
+mTOR	c-Raf-1
+mTOR	p90Rsk
+mTOR	p70 S6 kinase2
+mTOR	c-Src
+mTOR	LKB1
+mTOR	TRUB2
+mTOR	Hamartin
+mTOR	WDR3
+mTOR	Tuberin
+AMPK alpha 1 subunit	Bcl-10
+AMPK alpha 1 subunit	EGFR
+AMPK alpha 1 subunit	Separase
+AMPK alpha 1 subunit	GSK3 alpha
+AMPK alpha 1 subunit	GSK3 beta
+AMPK alpha 1 subunit	ITGB4
+AMPK alpha 1 subunit	Leptin receptor
+AMPK alpha 1 subunit	mTOR
+AMPK alpha 1 subunit	PI3K cat class III (Vps34)
+AMPK alpha 1 subunit	c-Raf-1
+AMPK alpha 1 subunit	p90Rsk
+AMPK alpha 1 subunit	p70 S6 kinase2
+AMPK alpha 1 subunit	c-Src
+AMPK alpha 1 subunit	LKB1
+AMPK alpha 1 subunit	TRUB2
+AMPK alpha 1 subunit	Hamartin
+AMPK alpha 1 subunit	WDR3
+AMPK alpha 1 subunit	Tuberin
+AMPK beta subunit	Bcl-10
+AMPK beta subunit	EGFR
+AMPK beta subunit	Separase
+AMPK beta subunit	GSK3 alpha
+AMPK beta subunit	GSK3 beta
+AMPK beta subunit	ITGB4
+AMPK beta subunit	Leptin receptor
+AMPK beta subunit	mTOR
+AMPK beta subunit	PI3K cat class III (Vps34)
+AMPK beta subunit	AMPK alpha 1 subunit
+AMPK beta subunit	c-Raf-1
+AMPK beta subunit	p90Rsk
+AMPK beta subunit	p70 S6 kinase2
+AMPK beta subunit	c-Src
+AMPK beta subunit	LKB1
+AMPK beta subunit	TRUB2
+AMPK beta subunit	Hamartin
+AMPK beta subunit	WDR3
+AMPK beta subunit	Tuberin
+c-Raf-1	Bcl-10
+c-Raf-1	EGFR
+c-Raf-1	Separase
+c-Raf-1	GSK3 alpha
+c-Raf-1	GSK3 beta
+c-Raf-1	ITGB4
+c-Raf-1	Leptin receptor
+c-Raf-1	mTOR
+c-Raf-1	PI3K cat class III (Vps34)
+c-Raf-1	AMPK alpha 1 subunit
+c-Raf-1	p90Rsk
+c-Raf-1	p70 S6 kinase2
+c-Raf-1	c-Src
+c-Raf-1	LKB1
+c-Raf-1	TRUB2
+c-Raf-1	Hamartin
+c-Raf-1	WDR3
+c-Raf-1	Tuberin
+p90Rsk	Bcl-10
+p90Rsk	EGFR
+p90Rsk	Separase
+p90Rsk	GSK3 alpha
+p90Rsk	GSK3 beta
+p90Rsk	ITGB4
+p90Rsk	Leptin receptor
+p90Rsk	mTOR
+p90Rsk	PI3K cat class III (Vps34)
+p90Rsk	AMPK alpha 1 subunit
+p90Rsk	c-Raf-1
+p90Rsk	p70 S6 kinase2
+p90Rsk	c-Src
+p90Rsk	LKB1
+p90Rsk	TRUB2
+p90Rsk	Hamartin
+p90Rsk	WDR3
+p90Rsk	Tuberin
+p70 S6 kinase2	Bcl-10
+p70 S6 kinase2	EGFR
+p70 S6 kinase2	Separase
+p70 S6 kinase2	GSK3 alpha
+p70 S6 kinase2	GSK3 beta
+p70 S6 kinase2	ITGB4
+p70 S6 kinase2	Leptin receptor
+p70 S6 kinase2	mTOR
+p70 S6 kinase2	PI3K cat class III (Vps34)
+p70 S6 kinase2	AMPK alpha 1 subunit
+p70 S6 kinase2	c-Raf-1
+p70 S6 kinase2	p90Rsk
+p70 S6 kinase2	c-Src
+p70 S6 kinase2	LKB1
+p70 S6 kinase2	TRUB2
+p70 S6 kinase2	Hamartin
+p70 S6 kinase2	WDR3
+p70 S6 kinase2	Tuberin
+c-Src	Bcl-10
+c-Src	EGFR
+c-Src	Separase
+c-Src	GSK3 alpha
+c-Src	GSK3 beta
+c-Src	ITGB4
+c-Src	Leptin receptor
+c-Src	mTOR
+c-Src	PI3K cat class III (Vps34)
+c-Src	AMPK alpha 1 subunit
+c-Src	c-Raf-1
+c-Src	p90Rsk
+c-Src	p70 S6 kinase2
+c-Src	LKB1
+c-Src	TRUB2
+c-Src	Hamartin
+c-Src	WDR3
+c-Src	Tuberin
+LKB1	Bcl-10
+LKB1	EGFR
+LKB1	Separase
+LKB1	GSK3 alpha
+LKB1	GSK3 beta
+LKB1	ITGB4
+LKB1	Leptin receptor
+LKB1	mTOR
+LKB1	PI3K cat class III (Vps34)
+LKB1	AMPK alpha 1 subunit
+LKB1	c-Raf-1
+LKB1	p90Rsk
+LKB1	p70 S6 kinase2
+LKB1	c-Src
+LKB1	TRUB2
+LKB1	Hamartin
+LKB1	WDR3
+LKB1	Tuberin
+Hamartin	Bcl-10
+Hamartin	EGFR
+Hamartin	Separase
+Hamartin	GSK3 alpha
+Hamartin	GSK3 beta
+Hamartin	ITGB4
+Hamartin	Leptin receptor
+Hamartin	mTOR
+Hamartin	PI3K cat class III (Vps34)
+Hamartin	AMPK alpha 1 subunit
+Hamartin	c-Raf-1
+Hamartin	p90Rsk
+Hamartin	p70 S6 kinase2
+Hamartin	c-Src
+Hamartin	LKB1
+Hamartin	TRUB2
+Hamartin	WDR3
+Hamartin	Tuberin
+Tuberin	Bcl-10
+Tuberin	EGFR
+Tuberin	Separase
+Tuberin	GSK3 alpha
+Tuberin	GSK3 beta
+Tuberin	ITGB4
+Tuberin	Leptin receptor
+Tuberin	mTOR
+Tuberin	PI3K cat class III (Vps34)
+Tuberin	AMPK alpha 1 subunit
+Tuberin	c-Raf-1
+Tuberin	p90Rsk
+Tuberin	p70 S6 kinase2
+Tuberin	c-Src
+Tuberin	LKB1
+Tuberin	TRUB2
+Tuberin	Hamartin
+Tuberin	WDR3
+

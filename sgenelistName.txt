@@ -1,0 +1,28 @@
+BCL10
+EGFR	
+ESPL1
+GSK3A	
+GSK3B	
+ITGB4
+LEPR	
+MTOR
+PIK3C3
+PRKAA1
+PRKAB1
+RAF1	
+RPS6KA1
+RPS6KB1
+SRC
+STK11
+LKB1
+TRUB2
+TSC1
+TSC2
+WDR3
+
+c("BCL10", "EGFR", "ESPL1", "GSK3A", "GSK3B", "ITGB4", "LEPR", "MTOR", "PIK3C3","PRKAA1", "PRKAB1", "RAF1", "RPS6KA1", "RPS6KB1", "SRC", "STK11", "LKB1", "TRUB2","TSC1", "TSC2", "WDR3")
+
+c("BCL10", "EGFR", "ESPL1", "GSK3A", "GSK3B", "ITGB4", "LEPR", "MTOR", "PIK3C3","PRKAA1", "PRKAB1", "RAF1", "RPS6KA1", "RPS6KB1", "SRC", "STK11", "LKB1", "TRUB2","TSC1", "TSC2", "WDR3")
+
+c("Bcl-10", "EGFR", "Separase", "GSK3 alpha", "GSK3 beta", "ITGB4", "Leptin receptor", "mTOR", "PI3K cat class III (Vps34)","AMPK alpha 1 subunit", "AMPK beta subunit", "c-Raf-1", "p90RSK1", "p70 S6 kinases", "c-Src", "LKB1", "LKB1", "TRUB2","Hamartin", "Tuberin", "WDR3")
+dimn
